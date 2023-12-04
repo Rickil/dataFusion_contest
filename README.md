@@ -12,12 +12,7 @@ This project is from the IEEE GRSS Data Fusion Contest 2013 and aims to classify
    ```bash
    cd iml
    ```
-3. Use the data from the IEEE GRSS Data Fusion Contest 2013 in `data/` and `groundtruth` directories
-
-4. Run the main script in the `src/` directory.
-   ```bash
-   python main.py
-   ```
+3. Use the data from the IEEE GRSS Data Fusion Contest 2013 in `data/` and `groundtruth/` directories
    
 ### Dependencies
 Ensure the following libraries are installed:
