@@ -3,7 +3,6 @@
 ### Objective
 This project is from the IEEE GRSS Data Fusion Contest 2013 and aims to classify pixels in a scene by assigning each a class identifier (1-15). Utilizing hyperspectral (reflectance) and LiDAR (height) images, the solution merges information for accurate classification.
 
-
-![6fb7cbe4-4967-42f6-9418-3b3cabb59645](https://github.com/Rickil/dataFusion_contest/assets/38404628/0686435c-34fa-478a-ae66-02f060fe3760)
-![49527b6c-0699-4bd6-a744-2ab7934617a5](https://github.com/Rickil/dataFusion_contest/assets/38404628/179a3116-0f9b-4a98-b4e8-3582a21ec77c)
-![3fc702cc-1228-4f83-b36c-54a580e6ff2f](https://github.com/Rickil/dataFusion_contest/assets/38404628/75004283-384d-48a6-8b02-acc492c6ba3c)
+![24ad26e4-8160-4b6f-b21d-b37663a0caad](https://github.com/Rickil/dataFusion_contest/assets/38404628/f4e8adcb-1315-4e3e-b143-73e266e2fb3a)
+![5d5c5517-35e6-415b-a75e-a9cc2d09f90b](https://github.com/Rickil/dataFusion_contest/assets/38404628/301ec8c2-03b1-49de-82a4-0e69a4011505)
+![3c2b9e7d-b3cd-402b-bc26-e7541459858c](https://github.com/Rickil/dataFusion_contest/assets/38404628/d6e8df8e-a65e-43d7-ae20-cd0c680b202d)
